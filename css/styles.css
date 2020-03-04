@@ -1,0 +1,15 @@
+
+.cover {
+    border: 5px solid;
+    border-radius: 10px;
+    color: black;
+}
+
+.row {
+    margin: auto;
+}
+
+.info {
+    margin: 50px;
+    font-size: 25px;
+}
